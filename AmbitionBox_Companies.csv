@@ -1,0 +1,201 @@
+,Name,rating,reviews,interviews,jobs,benefits,Photos
+0,TCS,3.3,1.1L,11.8k,3.5k,10.6k,93
+1,Accenture,3.7,72.6k,9.3k,27.9k,6.7k,49
+2,Wipro,3.6,64.5k,6.8k,419,4.6k,107
+3,Cognizant,3.7,60.7k,6.4k,460,5.5k,86
+4,Capgemini,3.7,52.4k,5.5k,2.6k,3.7k,42
+5,HDFC Bank,3.8,51.6k,3k,378,3.2k,86
+6,Infosys,3.5,48.2k,8.4k,2.8k,4.8k,118
+7,ICICI Bank,3.9,45.5k,2.9k,15,3.7k,73
+8,HCLTech,3.4,45.4k,4.5k,267,3.8k,65
+9,Tech Mahindra,3.4,42.9k,4.5k,620,3.4k,79
+10,Genpact,3.6,41.6k,3.8k,894,3.5k,66
+11,TP,3.8,37.7k,2.2k,2k,1.8k,38
+12,Jio,4.4,33.5k,4.3k,1,2.5k,89
+13,Axis Bank,3.6,32.8k,1.9k,230,2.1k,121
+14,Concentrix Corporation,3.6,31.9k,2k,34,3.1k,66
+15,Amazon,3.9,31.2k,5.9k,2.2k,3.6k,90
+16,Reliance Retail,3.9,27.2k,1.9k,122,1.8k,137
+17,iEnergizer,4.6,27.2k,1.4k,78,430,29
+18,LTIMindtree,3.6,26.1k,3.4k,362,777,34
+19,IBM,3.9,25.6k,2.6k,969,2.6k,23
+20,HDB Financial Services,3.9,25.4k,1.1k,2.1k,1.5k,73
+21,Larsen & Toubro Limited,3.9,23.6k,1.8k,95,2.5k,65
+22,Deloitte,3.7,22.8k,3.3k,1.7k,2.4k,25
+23,Kotak Mahindra Bank,3.6,22.2k,1.4k,148,1.3k,43
+24,Reliance Industries,4.0,20.1k,1.6k,77,1.8k,38
+25,Vodafone Idea,3.9,17.5k,686,67,2k,22
+26,Bharti Airtel,3.8,17k,1.1k,193,1.6k,101
+27,BYJU'S,3.2,16.4k,2.1k,1,1.7k,28
+28,WNS,3.3,15k,1.2k,96,1.3k,24
+29,IDFC FIRST Bank,3.9,14.3k,951,39,692,96
+30,Ernst & Young,3.4,14.3k,1.3k,4.9k,1.1k,10
+31,Tata Motors,4.1,14.1k,1.3k,160,1.6k,43
+32,IndusInd Bank,3.4,14.1k,765,96,796,16
+33,AU Small Finance Bank,3.9,14k,694,277,578,27
+34,Muthoot FinCorp,4.6,13.1k,2.4k,29,275,103
+35,Bajaj Finserv,4.0,12.9k,739,9,707,16
+36,Flipkart,3.9,12.8k,1.7k,126,1.4k,104
+37,PwC,3.3,12.4k,1.6k,1.1k,800,24
+38,Mahindra & Mahindra,4.0,12k,858,2,1.2k,19
+39,Infosys BPM,3.5,11.9k,1.1k,76,1.1k,8
+40,HDFC Life,3.9,11.9k,797,102,613,55
+41,DXC Technology,3.6,11.9k,897,202,1.1k,9
+42,Bandhan Bank,3.7,10.9k,754,38,517,43
+43,Digitide Solutions,3.5,10.2k,568,333,772,47
+44,Mphasis,3.3,10.2k,927,50,845,132
+45,Yes Bank,3.7,10.1k,552,180,608,18
+46,Tata Steel,4.0,9.8k,1.1k,--,660,52
+47,Quess,3.8,9.6k,539,45,440,22
+48,Maruti Suzuki,4.2,9.5k,784,791,1.1k,25
+49,Asian Paints,3.9,9.5k,858,68,884,36
+50,Startek,3.1,9.4k,634,268,681,16
+51,UltraTech Cement,4.1,9.4k,797,34,619,47
+52,Paytm,3.2,9.3k,891,126,582,24
+53,Bajaj Finance,3.9,9.1k,438,5.6k,503,15
+54,Shriram Finance,4.0,9k,448,13,21,44
+55,Sutherland Global Services,3.4,8.9k,795,245,902,30
+56,Equitas Small Finance Bank,4.4,8.8k,1k,23,397,43
+57,Cipla,4.1,8.5k,596,68,857,20
+58,EXL Service,3.6,8.5k,906,1.3k,799,20
+59,Wells Fargo,3.6,8.5k,689,256,855,13
+60,Ericsson,3.9,8.4k,473,51,998,17
+61,Samsung,3.9,8.3k,628,24,521,16
+62,Dr. Reddy's,4.0,8.1k,510,15,740,29
+63,Optum Global Solutions,4.0,7.9k,766,111,686,2
+64,JSW Steel,3.9,7.7k,823,120,602,32
+65,JPMorgan Chase & Co.,3.8,7.7k,872,939,846,14
+66,Delhivery,3.8,7.7k,611,191,656,71
+67,ICICI Prudential Life Insurance,3.9,7.7k,479,262,625,13
+68,Hexaware Technologies,3.4,7.6k,828,508,547,30
+69,Jana Small Finance Bank,3.8,7.5k,307,47,623,17
+70,HGS,3.7,7.5k,274,12,968,32
+71,Ujjivan Small Finance Bank,4.0,7.5k,324,596,580,26
+72,Sun Pharmaceutical Industries,4.1,7.5k,667,422,594,17
+73,Amazon Development Centre India,3.8,7.5k,890,4,360,12
+74,Zydus Lifesciences,4.0,7.3k,452,51,605,21
+75,Ekart Logistics,3.9,7.3k,407,--,422,75
+76,Lupin,4.1,7.3k,444,14,764,11
+77,L&T Construction,4.0,7.3k,950,--,929,37
+78,Hindustan Unilever,4.2,7.2k,470,46,704,6
+79,KPMG India,3.4,7.2k,934,64,749,6
+80,Axis Max Life Insurance,4.0,7.1k,408,141,495,11
+81,ITC,3.9,7.1k,695,91,638,14
+82,Megha Engineering & Infrastructures,3.9,6.9k,568,25,539,39
+83,Tata Projects,4.2,6.8k,604,52,540,59
+84,Coforge,3.3,6.7k,716,204,273,102
+85,Bajaj Life Insurance,3.8,6.5k,446,72,474,17
+86,Cholamandalam Investment & Finance,3.8,6.5k,286,40,293,41
+87,L&T Technology Services,3.1,6.5k,632,--,444,11
+88,FIS,3.8,6.5k,537,132,721,17
+89,Omega Healthcare,3.8,6.4k,552,163,391,30
+90,Oracle,3.5,6.3k,951,92,617,39
+91,Muthoot Finance,3.7,6.3k,355,122,325,12
+92,IIFL Finance,4.0,6.3k,329,76,399,18
+93,JLL,4.1,6.3k,489,380,539,21
+94,Indian Army,4.7,6.2k,207,--,728,12
+95,eClerx,3.1,6.2k,638,673,555,26
+96,HCL Group,3.5,6.1k,520,--,661,1
+97,DMart,3.9,6.1k,551,196,470,17
+98,Virtusa Consulting Services,3.7,6k,678,642,318,23
+99,Piramal Finance,4.2,6k,295,8,445,4
+100,Indiamart Intermesh,3.5,5.9k,756,160,432,17
+101,HSBC Group,3.9,5.9k,550,124,1.1k,26
+102,PolicyBazaar,3.8,5.9k,630,820,231,27
+103,SMFG India Credit,3.9,5.9k,212,33,348,18
+104,Access Healthcare,3.7,5.8k,400,1.9k,347,9
+105,BigBasket,3.9,5.8k,489,82,381,36
+106,Siemens,3.9,5.8k,509,81,632,13
+107,Aurobindo Pharma,4.0,5.7k,292,19,468,9
+108,Udaan,3.9,5.7k,372,8,755,16
+109,GlobalLogic,3.5,5.7k,684,34,515,21
+110,Manappuram Finance,3.9,5.7k,226,14,260,35
+111,Firstsource Solutions,3.5,5.7k,364,174,570,13
+112,ICICI Lombard General Insurance Company,3.5,5.7k,356,230,366,15
+113,Tata Capital,4.0,5.7k,275,5k,257,23
+114,Shapoorji Pallonji Group,4.1,5.7k,430,63,632,14
+115,Standard Chartered,3.6,5.6k,323,--,305,--
+116,Apollo Hospitals,4.1,5.6k,487,185,507,2
+117,UST,3.7,5.6k,592,76,408,16
+118,Mahindra Finance,3.9,5.6k,221,584,507,12
+119,Bosch Global Software Technologies,3.7,5.6k,393,15,626,21
+120,Ashok Leyland,4.0,5.5k,325,--,642,15
+121,Swiggy,3.7,5.5k,576,195,340,18
+122,Citicorp,3.7,5.5k,630,--,517,6
+123,Hero MotoCorp,4.1,5.4k,411,1,584,10
+124,CGI Group,4.0,5.4k,560,520,354,5
+125,Cyient,3.6,5.3k,336,84,466,3
+126,SBI Cards & Payment Services,3.6,5.2k,308,89,344,13
+127,BNY,3.6,5.2k,401,79,528,1
+128,Kalpataru Projects International,4.2,5.2k,332,4,203,22
+129,NTT DATA,3.8,5.2k,751,41,156,2
+130,IQVIA,3.7,5.2k,556,40,524,10
+131,Nagarjuna Construction Company,4.0,5.2k,445,17,408,12
+132,JustDial,3.5,5.1k,393,85,372,9
+133,Schneider Electric,4.1,5.1k,458,191,436,13
+134,SBI Life Insurance Company,3.7,5.1k,308,1,327,18
+135,CBRE,4.1,5.1k,353,205,443,19
+136,TVS Motor,3.9,5.1k,406,20,537,13
+137,Persistent Systems,3.6,5k,713,275,369,33
+138,State Bank of India,3.8,4.9k,314,10,400,5
+139,Atos,3.8,4.9k,410,106,456,10
+140,vivo,4.1,4.9k,242,8,643,3
+141,KEC International,4.0,4.9k,422,16,442,54
+142,Amdocs,3.6,4.8k,562,14,614,20
+143,Ecom Express,4.0,4.8k,264,--,323,39
+144,ITC Infotech,3.8,4.8k,420,99,281,11
+145,JBM Group,3.9,4.8k,352,51,342,21
+146,Varun Beverages,4.0,4.8k,352,58,321,31
+147,Eviden,3.6,4.8k,316,1,1,11
+148,Nagarro,3.9,4.7k,836,343,1.1k,19
+149,Bosch,4.1,4.6k,383,--,599,18
+150,Utkarsh Small Finance Bank,3.6,4.6k,307,22,270,53
+151,Randstad,3.7,4.6k,331,7,342,7
+152,EY Global Delivery Services ( EY GDS),3.5,4.6k,889,10,264,16
+153,Hewlett Packard Enterprise,4.0,4.6k,268,296,546,18
+154,Home Credit Finance,4.0,4.6k,149,89,629,6
+155,Cars24,3.5,4.6k,409,69,410,18
+156,Aditya Birla Fashion and Retail,4.0,4.6k,268,91,391,14
+157,L&T Finance,3.9,4.6k,221,--,259,34
+158,Mahindra Logistics,3.7,4.5k,253,160,446,24
+159,Havells,3.9,4.5k,295,23,315,9
+160,Dell,3.8,4.5k,425,48,540,25
+161,Intas Pharmaceuticals,4.1,4.5k,263,52,362,9
+162,R1 RCM,3.8,4.5k,359,200,335,23
+163,OPPO,3.9,4.5k,253,8,602,10
+164,Tata AIA Life Insurance,3.9,4.4k,254,682,298,23
+165,Hetero,3.9,4.4k,331,86,332,14
+166,Hyundai Motor India Limited,4.1,4.4k,326,--,519,31
+167,Deutsche Bank,3.8,4.4k,426,615,399,79
+168,Berger Paints,3.7,4.4k,434,132,273,6
+169,Motilal Oswal Financial Services,3.7,4.4k,551,39,167,90
+170,TeamLease Services,3.9,4.3k,253,2,215,6
+171,Lenskart,3.3,4.3k,455,199,199,23
+172,VE Commercial Vehicles,3.9,4.3k,289,4,340,12
+173,Thermax Limited,4.2,4.2k,344,61,371,24
+174,Macleods Pharmaceuticals,3.7,4.2k,270,10,334,3
+175,Bajaj Auto,3.8,4.2k,328,6,496,19
+176,Jubilant Foods Works,3.7,4.2k,254,312,180,18
+177,Aakash Educational Services,3.2,4.2k,374,111,212,25
+178,Kogta Financial India Limited,4.7,4.1k,251,137,31,39
+179,LG Electronics,3.9,4.1k,262,--,399,18
+180,Hindalco Industries,4.2,4.1k,309,7,327,10
+181,Jindal Steel Limited,3.9,4.1k,421,57,328,37
+182,State Street Corporation,3.5,4.1k,292,6,262,11
+183,Royal Enfield,4.2,4.1k,203,15,396,38
+184,DCB Bank,3.8,4k,231,20,248,23
+185,HDFC Ergo General Insurance,4.0,4k,201,311,273,7
+186,Tata Communications,3.9,4k,304,272,426,13
+187,John Deere,4.0,4k,267,4,417,11
+188,RBL Bank,3.5,4k,241,39,221,11
+189,Cummins,4.3,3.9k,289,89,458,16
+190,Publicis Sapient,3.3,3.9k,700,208,391,69
+191,Bank of America,4.1,3.9k,294,--,414,--
+192,Alembic Pharmaceuticals,3.9,3.9k,256,63,378,9
+193,Pidilite Industries,4.2,3.9k,260,21,360,1
+194,Oyo Rooms,3.0,3.9k,258,161,389,14
+195,American Express,4.1,3.8k,429,145,435,10
+196,Subros,3.8,3.8k,218,5,379,11
+197,Aditya Birla Sun Life Insurance,4.0,3.8k,183,1,214,23
+198,Grasim Industries,4.0,3.8k,282,4,267,11
+199,Kyndryl,4.0,3.8k,230,2,163,59
